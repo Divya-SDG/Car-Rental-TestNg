@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-03T00:00:11 MST" name="Default suite" finished-at="2021-01-03T00:00:14 MST" duration-ms="2652">
+    <groups>
+    </groups>
+    <test started-at="2021-01-03T00:00:11 MST" name="Default test" finished-at="2021-01-03T00:00:14 MST" duration-ms="2652">
+      <class name="Car_Rental_Tests.RentalCarsTests">
+        <test-method is-config="true" signature="InitializeExtentReport()[pri:0, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:10 MST" name="InitializeExtentReport" finished-at="2021-01-03T00:00:10 MST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeExtentReport -->
+        <test-method is-config="true" signature="setUpWireMockServer()[pri:0, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:10 MST" name="setUpWireMockServer" finished-at="2021-01-03T00:00:11 MST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpWireMockServer -->
+        <test-method is-config="true" signature="getmappingsRequestAndResponseForRentalCars()[pri:0, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:11 MST" name="getmappingsRequestAndResponseForRentalCars" finished-at="2021-01-03T00:00:11 MST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getmappingsRequestAndResponseForRentalCars -->
+        <test-method signature="getRequest_ListOfCars()[pri:1, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:11 MST" name="getRequest_ListOfCars" finished-at="2021-01-03T00:00:12 MST" duration-ms="1461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_ListOfCars -->
+        <test-method signature="getRequest_TeslaBlueAndNotes()[pri:2, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:12 MST" name="getRequest_TeslaBlueAndNotes" finished-at="2021-01-03T00:00:13 MST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_TeslaBlueAndNotes -->
+        <test-method signature="getRequest_CarWithLowestRent()[pri:3, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:13 MST" name="getRequest_CarWithLowestRent" finished-at="2021-01-03T00:00:13 MST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_CarWithLowestRent -->
+        <test-method signature="getRequest_CarWithLowestRevenue()[pri:4, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:13 MST" name="getRequest_CarWithLowestRevenue" finished-at="2021-01-03T00:00:14 MST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_CarWithLowestRevenue -->
+        <test-method is-config="true" signature="done()[pri:0, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:14 MST" name="done" finished-at="2021-01-03T00:00:14 MST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- done -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Car_Rental_Tests.RentalCarsTests@13b13b5d]" started-at="2021-01-03T00:00:14 MST" name="teardown" finished-at="2021-01-03T00:00:14 MST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Car_Rental_Tests.RentalCarsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
